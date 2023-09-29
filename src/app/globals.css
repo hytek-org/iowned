@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Style the scrollbar for WebKit-based browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 4px; /* Adjust the width as desired */
+  }
+  
+  /* Style the scrollbar track */
+  ::-webkit-scrollbar-track {
+    background: transparent; /* Adjust the background color as desired */
+  }
+  
+  /* Style the scrollbar thumb (the draggable part) */
+  ::-webkit-scrollbar-thumb {
+    background: transparent; /* Adjust the color of the scrollbar thumb as desired */
+    border-radius: 2px; /* Adjust the border radius as desired */
+  }
+  
+  /* Style the scrollbar thumb on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: transparent; /* Adjust the hover color as desired */
+  }
+  

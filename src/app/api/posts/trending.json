@@ -1,0 +1,112 @@
+[  {
+  "id": 1,
+  "title": "Android App Development: Creating Apps for the Android Ecosystem",
+  "description": "Learn Android App Development with Java and Kotlin.",
+  "slug": "android-app-development",
+  "image": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxBbmRyb2lkJTIwQXBwJTIwRGV2ZWxvcG1lbnQlMjB3aXRoJTIwS290bGlufGVufDB8fHx8MTY5NTc3MjA3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+  "date": "2023-09-27",
+  "author": "Kuldeep Sharma",
+  "tags": ["Android Development", "Mobile App Development"],
+  "category": "Mobile App Development"
+},
+{
+  "id": 2,
+  "title": "Explore the Latest Industry Insights of Information Technology",
+  "description": "Stay updated with the latest trends and insights in the field of information technology.",
+  "slug": "industry-insights-in-information-technology",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxFeHBsb3JlJTIwdGhlJTIwTGF0ZXN0JTIwSW5kdXN0cnklMjBJbnNpZ2h0cyUyMG9mJTIwSW5mb3JtYXRpb24lMjBUZWNobm9sb2d5fGVufDB8fHx8MTY5NTc3MjA3OHww&ixlib=rb-4.0.3&q=80&w=1080",
+  "date": "2023-07-08",
+  "author": "Kuldeep Sharma",
+  "tags": ["Technology Trends"],
+  "category": "Technology"
+},
+{
+  "id": 3,
+  "title": "Data Visualization: Turning Data into Insights",
+  "description": "Explore Data Visualization Tools and Techniques for Effective Communication.",
+  "slug": "data-visualization",
+  "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwVmlzdWFsaXphdGlvbiUzQSUyMFR1cm5pbmclMjBEYXRhJTIwaW50byUyMEluc2lnaHRzfGVufDB8fHx8MTY5NTc3MjA5Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+  "date": "2023-09-27",
+  "author": "Kuldeep Sharma",
+  "tags": ["Data Visualization", "Data Science"],
+  "category": "Data Science"
+},
+{
+  "id": 4,
+  "title": "JavaScript Fundamentals: From Basics to Advanced Techniques",
+  "description": "Dive Deep into JavaScript: ES6, Async/Await, Promises, and More!",
+  "slug": "javascript-fundamentals",
+  "image": "https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxKYXZhU2NyaXB0JTIwRnVuZGFtZW50YWxzJTNBJTIwRnJvbSUyMEJhc2ljcyUyMHRvJTIwQWR2YW5jZWQlMjBUZWNobmlxdWVzfGVufDB8fHx8MTY5NTc3MjA4M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+  "date": "2023-09-27",
+  "author": "Kuldeep Sharma",
+  "tags": ["JavaScript", "Web Development"],
+  "category": "Web Development"
+}, 
+
+  {
+    "id": 5,
+    "title": "Python Mastery: Unlocking the Full Potential of Python",
+    "description": "Master Python for Web Development, Data Analysis, and Automation.",
+    "slug": "python-mastery",
+    "image": "https://images.unsplash.com/photo-1660145137136-d99a821a49d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxQeXRob24lMjBNYXN0ZXJ5JTNBJTIwVW5sb2NraW5nJTIwdGhlJTIwRnVsbCUyMFBvdGVudGlhbCUyMG9mJTIwUHl0aG9ufGVufDB8fHx8MTY5NTc3MjA4M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": ["Python", "Web Development"],
+    "category": "Web Development"
+  },
+  {
+    "id": 6,
+    "title": "Responsive Design: Crafting Websites for All Devices",
+    "description": "Learn How to Create Beautiful and Responsive Web Designs.",
+    "slug": "responsive-web-design",
+    "image": "https://images.unsplash.com/photo-1534670007418-fbb7f6cf32c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxSZXNwb25zaXZlJTIwRGVzaWduJTNBJTIwQ3JhZnRpbmclMjBXZWJzaXRlcyUyMGZvciUyMEFsbCUyMERldmljZXN8ZW58MHx8fHwxNjk1NzcyMDg4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": ["Responsive Design", "Web Development"],
+    "category": "Design"
+  },
+ {
+    "id": 7,
+    "title": "Next.js: Server-Side Rendering Made Simple",
+    "description": "Explore Next.js for SEO-Friendly and High-Performance Web Apps.",
+    "slug": "next-js-server-side-rendering",
+    "image": "https://images.unsplash.com/photo-1487700160041-babef9c3cb55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxOZXh0LmpzJTNBJTIwU2VydmVyLVNpZGUlMjBSZW5kZXJpbmclMjBNYWRlJTIwU2ltcGxlfGVufDB8fHx8MTY5NTc3MjA4Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": ["Next.js", "Web Development"],
+    "category": "Web Development"
+  },
+  {
+    "id": 8,
+    "title": "Tech Trends in Technology",
+    "description": "Discover the emerging technology trends that are shaping the future.",
+    "slug": "tech-trends-in-technology",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxUZWNoJTIwVHJlbmRzJTIwaW4lMjBUZWNobm9sb2d5fGVufDB8fHx8MTY5NTc3MjA3OXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-26",
+    "author": "Kuldeep Sharma",
+    "tags": ["Technology Trends"],
+    "category": "Technology"
+  },
+  {
+    "id": 9,
+    "title": "Data Science",
+    "description": "Explore the world of data science, including data analysis, machine learning, and data visualization.",
+    "slug": "data-science-exploration",
+    "image": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwU2NpZW5jZXxlbnwwfHx8fDE2OTU3NzIwNzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": ["Data Science"],
+    "category": "Data Science"
+  },
+  {
+    "id": 10,
+    "title": "UI/UX Design Principles: Creating Exceptional User Experiences",
+    "description": "Master the Art of UI/UX Design for Web and Mobile Applications.",
+    "slug": "ui-ux-design-principles",
+    "image": "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxVSSUyRlVYJTIwRGVzaWduJTIwUHJpbmNpcGxlcyUzQSUyMENyZWF0aW5nJTIwRXhjZXB0aW9uYWwlMjBVc2VyJTIwRXhwZXJpZW5jZXN8ZW58MHx8fHwxNjk1NzcyMDg3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": ["UI/UX Design", "Web Development"],
+    "category": "Design"
+  }
+]

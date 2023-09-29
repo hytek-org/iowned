@@ -1,0 +1,41 @@
+
+  
+  .swiper {
+    width: 100%;
+    height: 10%;
+  }
+  
+  .swiperSlide{
+    text-align: center;
+    font-size: 18px;
+  
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiperSlideimg {
+    display: block;
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
+   
+  }
+  
+  .swiperSlide{
+   padding-top: 10px;
+   padding-bottom: 15px;
+   
+  }
+  
+  .swiperSlide:nth-child(2n) {
+    width: 60%;
+  }
+  
+  .swiperSlide:nth-child(3n) {
+    width: 40%;
+  }
+  

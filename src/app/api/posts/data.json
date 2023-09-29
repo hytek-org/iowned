@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React.js: A Powerful Framework for Modern Web Development",
+    "description": "Learn Modern React, Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects.",
+    "slug": "react-front-to-back",
+    "image": "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxNYXN0ZXJpbmclMjBSZWFjdC5qcyUzQSUyMEElMjBQb3dlcmZ1bCUyMEZyYW1ld29yayUyMGZvciUyME1vZGVybiUyMFdlYiUyMERldmVsb3BtZW50fGVufDB8fHx8MTY5NTc3MjA2M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-06-29",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "React.js",
+      "Web Development",
+      "MERN Stack"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript for Beginners",
+    "description": "Learn the basics of JavaScript programming language including variables, data types, functions, and more.",
+    "slug": "javascript-for-beginners",
+    "image": "https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxKYXZhU2NyaXB0JTIwZm9yJTIwQmVnaW5uZXJzfGVufDB8fHx8MTY5NTc3MjA2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-06-30",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "JavaScript",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 3,
+    "title": "Python Crash Course",
+    "description": "Learn the fundamentals of Python programming language including syntax, data types, loops, and more.",
+    "slug": "python-crash-course",
+    "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxQeXRob24lMjBDcmFzaCUyMENvdXJzZXxlbnwwfHx8fDE2OTU3NzIwNjZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-01",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Python",
+      "Programming"
+    ],
+    "category": "Programming"
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Web Development",
+    "description": "Learn how to build web applications from scratch using modern tools and technologies such as Node.js, Express, MongoDB, React, and more.",
+    "slug": "full-stack-web-development",
+    "image": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxGdWxsJTIwU3RhY2slMjBXZWIlMjBEZXZlbG9wbWVudHxlbnwwfHx8fDE2OTU3NzIwNjd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-02",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Web Development",
+      "Full Stack"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 5,
+    "title": "Data Structures and Algorithms",
+    "description": "Learn how to implement and use various data structures and algorithms such as arrays, linked lists, binary search trees, and more.",
+    "slug": "data-structures-and-algorithms",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwU3RydWN0dXJlcyUyMGFuZCUyMEFsZ29yaXRobXN8ZW58MHx8fHwxNjk1NzcyMDY4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-03",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Data Structures",
+      "Algorithms"
+    ],
+    "category": "Programming"
+  },
+  {
+    "id": 6,
+    "title": "Artificial Intelligence and Machine Learning",
+    "description": "Learn how to build intelligent systems that can learn from data and make predictions using machine learning algorithms and techniques.",
+    "slug": "artificial-intelligence-and-machine-learning",
+    "image": "https://images.unsplash.com/photo-1516192518150-0d8fee5425e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTIwYW5kJTIwTWFjaGluZSUyMExlYXJuaW5nfGVufDB8fHx8MTY5NTc3MjA2OHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-04",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": 7,
+    "title": "iOS App Development with Swift",
+    "description": "Learn how to build native iOS applications using the Swift programming language and various tools and frameworks.",
+    "slug": "ios-app-development-with-swift",
+    "image": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxpT1MlMjBBcHAlMjBEZXZlbG9wbWVudCUyMHdpdGglMjBTd2lmdHxlbnwwfHx8fDE2OTU3NzIwNzB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-05",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "iOS Development",
+      "Swift"
+    ],
+    "category": "Mobile App Development"
+  },
+  {
+    "id": 8,
+    "title": "Android App Development with Kotlin",
+    "description": "Learn how to build native Android applications using the Kotlin programming language and various tools and frameworks.",
+    "slug": "android-app-development-with-kotlin",
+    "image": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxBbmRyb2lkJTIwQXBwJTIwRGV2ZWxvcG1lbnQlMjB3aXRoJTIwS290bGlufGVufDB8fHx8MTY5NTc3MjA3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-06",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Android Development",
+      "Kotlin"
+    ],
+    "category": "Mobile App Development"
+  },
+  {
+    "id": 9,
+    "title": "Blockchain and Cryptocurrency",
+    "description": "Learn how to build decentralized applications and understand the technology behind cryptocurrencies",
+    "slug": "blockchain-and-cryptocurrency",
+    "image": "https://images.unsplash.com/photo-1552057426-9f23e61fa7b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxCbG9ja2NoYWluJTIwYW5kJTIwQ3J5cHRvY3VycmVuY3l8ZW58MHx8fHwxNjk1NzcyMDcyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-07",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Blockchain",
+      "Cryptocurrency"
+    ],
+    "category": "Blockchain"
+  },
+  {
+    "id": 10,
+    "title": "Cybersecurity Fundamentals",
+    "description": "Learn how to secure computer systems and networks from various types of attacks such as malware, phishing, and social engineering.",
+    "slug": "cybersecurity-fundamentals",
+    "image": "https://images.unsplash.com/photo-1555399784-17946f55db19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxDeWJlcnNlY3VyaXR5JTIwRnVuZGFtZW50YWxzfGVufDB8fHx8MTY5NTc3MjA3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-08",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Cybersecurity",
+      "Network Security"
+    ],
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 11,
+    "title": "Web Development",
+    "description": "Learn the essentials of web development, including HTML, CSS, and JavaScript.",
+    "slug": "web-development-essentials",
+    "image": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxXZWIlMjBEZXZlbG9wbWVudHxlbnwwfHx8fDE2OTU3NzIwNzN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-04-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Web Development",
+      "Web Designing"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 12,
+    "title": "Data Science",
+    "description": "Explore the world of data science, including data analysis, machine learning, and data visualization.",
+    "slug": "data-science-exploration",
+    "image": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwU2NpZW5jZXxlbnwwfHx8fDE2OTU3NzIwNzV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-04-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Data Science"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "id": 13,
+    "title": "UI/UX Fundamentals",
+    "description": "Learn the basics of UI/UX design, including user interface design principles and user experience concepts.",
+    "slug": "ui-ux-fundamentals",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxVSSUyRlVYJTIwRnVuZGFtZW50YWxzfGVufDB8fHx8MTY5NTc3MjA3Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-04-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "UI/UX Design"
+    ],
+    "category": "Design"
+  },
+  {
+    "id": 14,
+    "title": "UI/UX Advance",
+    "description": "Take your UI/UX design skills to the next level with advanced techniques and best practices.",
+    "slug": "ui-ux-advance",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxVSSUyRlVYJTIwQWR2YW5jZXxlbnwwfHx8fDE2OTU3NzIwNzd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-26",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "UI/UX Design"
+    ],
+    "category": "Design"
+  },
+  {
+    "id": 15,
+    "title": "Top 10 Programming Tips for Absolute Beginners",
+    "description": "Get valuable programming tips to kickstart your coding journey.",
+    "slug": "programming-tips-for-beginners",
+    "image": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxUb3AlMjAxMCUyMFByb2dyYW1taW5nJTIwVGlwcyUyMGZvciUyMEFic29sdXRlJTIwQmVnaW5uZXJzfGVufDB8fHx8MTY5NTc3MjA3N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-08",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Programming Tips"
+    ],
+    "category": "Tips"
+  },
+  {
+    "id": 16,
+    "title": "Explore the Latest Industry Insights of Information Technology",
+    "description": "Stay updated with the latest trends and insights in the field of information technology.",
+    "slug": "industry-insights-in-information-technology",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxFeHBsb3JlJTIwdGhlJTIwTGF0ZXN0JTIwSW5kdXN0cnklMjBJbnNpZ2h0cyUyMG9mJTIwSW5mb3JtYXRpb24lMjBUZWNobm9sb2d5fGVufDB8fHx8MTY5NTc3MjA3OHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-07-08",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Technology Trends"
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": 17,
+    "title": "Tech Trends in Technology",
+    "description": "Discover the emerging technology trends that are shaping the future.",
+    "slug": "tech-trends-in-technology",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxUZWNoJTIwVHJlbmRzJTIwaW4lMjBUZWNobm9sb2d5fGVufDB8fHx8MTY5NTc3MjA3OXww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-26",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Technology Trends"
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": 18,
+    "title": "Mastering Frontend Development: A Powerful Framework for Modern Web Development",
+    "description": "Learn Modern Frontend Development, Including React, Vue, and Angular, By Building Real Life Projects.",
+    "slug": "mastering-frontend-development",
+    "image": "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxNYXN0ZXJpbmclMjBGcm9udGVuZCUyMERldmVsb3BtZW50JTNBJTIwQSUyMFBvd2VyZnVsJTIwRnJhbWV3b3JrJTIwZm9yJTIwTW9kZXJuJTIwV2ViJTIwRGV2ZWxvcG1lbnR8ZW58MHx8fHwxNjk1NzcyMDgwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Frontend Development",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 19,
+    "title": "Mastering Backend Development: Building Scalable and Efficient Web Services",
+    "description": "Discover the World of Backend Development with Node.js, Express, and More.",
+    "slug": "mastering-backend-development",
+    "image": "https://images.unsplash.com/photo-1481026469463-66327c86e544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxNYXN0ZXJpbmclMjBCYWNrZW5kJTIwRGV2ZWxvcG1lbnQlM0ElMjBCdWlsZGluZyUyMFNjYWxhYmxlJTIwYW5kJTIwRWZmaWNpZW50JTIwV2ViJTIwU2VydmljZXN8ZW58MHx8fHwxNjk1NzcyMDgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Backend Development",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 20,
+    "title": "JavaScript Fundamentals: From Basics to Advanced Techniques",
+    "description": "Dive Deep into JavaScript: ES6, Async/Await, Promises, and More!",
+    "slug": "javascript-fundamentals",
+    "image": "https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxKYXZhU2NyaXB0JTIwRnVuZGFtZW50YWxzJTNBJTIwRnJvbSUyMEJhc2ljcyUyMHRvJTIwQWR2YW5jZWQlMjBUZWNobmlxdWVzfGVufDB8fHx8MTY5NTc3MjA4M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "JavaScript",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 21,
+    "title": "Python Mastery: Unlocking the Full Potential of Python",
+    "description": "Master Python for Web Development, Data Analysis, and Automation.",
+    "slug": "python-mastery",
+    "image": "https://images.unsplash.com/photo-1660145137136-d99a821a49d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxQeXRob24lMjBNYXN0ZXJ5JTNBJTIwVW5sb2NraW5nJTIwdGhlJTIwRnVsbCUyMFBvdGVudGlhbCUyMG9mJTIwUHl0aG9ufGVufDB8fHx8MTY5NTc3MjA4M3ww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Python",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 22,
+    "title": "React.js: Building Interactive and Dynamic User Interfaces",
+    "description": "Become a React.js Pro with State Management, Routing, and Hooks.",
+    "slug": "react-js-ui",
+    "image": "https://images.unsplash.com/photo-1481026469463-66327c86e544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxSZWFjdC5qcyUzQSUyMEJ1aWxkaW5nJTIwSW50ZXJhY3RpdmUlMjBhbmQlMjBEeW5hbWljJTIwVXNlciUyMEludGVyZmFjZXN8ZW58MHx8fHwxNjk1NzcyMDg1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "React.js",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 23,
+    "title": "Next.js: Server-Side Rendering Made Simple",
+    "description": "Explore Next.js for SEO-Friendly and High-Performance Web Apps.",
+    "slug": "next-js-server-side-rendering",
+    "image": "https://images.unsplash.com/photo-1487700160041-babef9c3cb55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxOZXh0LmpzJTNBJTIwU2VydmVyLVNpZGUlMjBSZW5kZXJpbmclMjBNYWRlJTIwU2ltcGxlfGVufDB8fHx8MTY5NTc3MjA4Nnww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Next.js",
+      "Web Development"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 24,
+    "title": "UI/UX Design Principles: Creating Exceptional User Experiences",
+    "description": "Master the Art of UI/UX Design for Web and Mobile Applications.",
+    "slug": "ui-ux-design-principles",
+    "image": "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxVSSUyRlVYJTIwRGVzaWduJTIwUHJpbmNpcGxlcyUzQSUyMENyZWF0aW5nJTIwRXhjZXB0aW9uYWwlMjBVc2VyJTIwRXhwZXJpZW5jZXN8ZW58MHx8fHwxNjk1NzcyMDg3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "UI/UX Design",
+      "Web Development"
+    ],
+    "category": "Design"
+  },
+  {
+    "id": 25,
+    "title": "Responsive Design: Crafting Websites for All Devices",
+    "description": "Learn How to Create Beautiful and Responsive Web Designs.",
+    "slug": "responsive-web-design",
+    "image": "https://images.unsplash.com/photo-1534670007418-fbb7f6cf32c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxSZXNwb25zaXZlJTIwRGVzaWduJTNBJTIwQ3JhZnRpbmclMjBXZWJzaXRlcyUyMGZvciUyMEFsbCUyMERldmljZXN8ZW58MHx8fHwxNjk1NzcyMDg4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-04-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Responsive Design",
+      "Web Development"
+    ],
+    "category": "Design"
+  },
+  {
+    "id": 26,
+    "title": "iOS App Development: Building Apps for Apple Devices",
+    "description": "Get Started with iOS App Development Using Swift and Xcode.",
+    "slug": "ios-app-development",
+    "image": "https://images.unsplash.com/photo-1481026469463-66327c86e544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxpT1MlMjBBcHAlMjBEZXZlbG9wbWVudCUzQSUyMEJ1aWxkaW5nJTIwQXBwcyUyMGZvciUyMEFwcGxlJTIwRGV2aWNlc3xlbnwwfHx8fDE2OTU3NzIwODl8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "iOS Development",
+      "Mobile App Development"
+    ],
+    "category": "Mobile App Development"
+  },
+  {
+    "id": 27,
+    "title": "Android App Development: Creating Apps for the Android Ecosystem",
+    "description": "Learn Android App Development with Java and Kotlin.",
+    "slug": "android-app-development",
+    "image": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxBbmRyb2lkJTIwQXBwJTIwRGV2ZWxvcG1lbnQlM0ElMjBDcmVhdGluZyUyMEFwcHMlMjBmb3IlMjB0aGUlMjBBbmRyb2lkJTIwRWNvc3lzdGVtfGVufDB8fHx8MTY5NTc3MjA5MHww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Android Development",
+      "Mobile App Development"
+    ],
+    "category": "Mobile App Development"
+  },
+  {
+    "id": 28,
+    "title": "Machine Learning Fundamentals: From Data to Predictions",
+    "description": "Dive into Machine Learning with Python, TensorFlow, and Scikit-Learn.",
+    "slug": "machine-learning-fundamentals",
+    "image": "https://images.unsplash.com/photo-1605459862899-f506150a7a80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxNYWNoaW5lJTIwTGVhcm5pbmclMjBGdW5kYW1lbnRhbHMlM0ElMjBGcm9tJTIwRGF0YSUyMHRvJTIwUHJlZGljdGlvbnN8ZW58MHx8fHwxNjk1NzcyMDkyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "category": "Machine Learning"
+  },
+  {
+    "id": 29,
+    "title": "Data Visualization: Turning Data into Insights",
+    "description": "Explore Data Visualization Tools and Techniques for Effective Communication.",
+    "slug": "data-visualization",
+    "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzk4ODJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwVmlzdWFsaXphdGlvbiUzQSUyMFR1cm5pbmclMjBEYXRhJTIwaW50byUyMEluc2lnaHRzfGVufDB8fHx8MTY5NTc3MjA5Mnww&ixlib=rb-4.0.3&q=80&w=1080",
+    "date": "2023-09-27",
+    "author": "Kuldeep Sharma",
+    "tags": [
+      "Data Visualization",
+      "Data Science"
+    ],
+    "category": "Data Science"
+  }
+]
